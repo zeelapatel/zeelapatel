@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on Java Spring-Boot project  
 - 🌱 I’m currently learning Data structure and data science
 - - 📫 How to reach me: Email zeelpatel2754@gmail.com
+ 
+  - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeelapatel)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **zeelapatel/zeelapatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
