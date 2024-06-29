@@ -4,6 +4,7 @@
 - 🌱 Intrest in Data structure and data science
 - ⚡ Proficient in Java , Hibernate, Spring-Boot, Python, Flask, Data Analysis
 - 📫 How to reach me: Email zeelpatel2754@gmail.com / https://www.linkedin.com/in/zeelapatel/
+- ![](https://komarev.com/ghpvc/?username=your-github-zeelapatel)
 -![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeelapatel&show_icons=true&theme=radical)
 -![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeelapatel&hide_progress=true)
 
