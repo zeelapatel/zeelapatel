@@ -19,7 +19,7 @@ I'm passionate about building high-performance, scalable software that makes an 
 When I'm not coding, I enjoy staying updated with the latest tech trends, diving deep into AI, and experimenting with new cloud architectures. Let's build something amazing together! 🚀
 
 Feel free to explore my repositories or reach out to collaborate on exciting projects.  
-💬 [Let's connect!](https://www.linkedin.com/in/zeel-a-patel/)
+💬 [Let's connect!](https://www.linkedin.com/in/zeelapatel/)
 
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeelapatel&show_icons=true&theme=radical)
