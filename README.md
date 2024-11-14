@@ -17,6 +17,7 @@ I'm passionate about building high-performance, scalable software that makes an 
 - 🛠️ [AWS Full-Stack Data Processing System](https://github.com/zeelapatel/File-Uploader-AWS-.git)
 
 When I'm not coding, I enjoy staying updated with the latest tech trends, diving deep into AI, and experimenting with new cloud architectures. Let's build something amazing together! 🚀
+![image](https://github.com/user-attachments/assets/38a8612e-228e-4550-87c4-3c9b70c47500)
 
 Feel free to explore my repositories or reach out to collaborate on exciting projects.  
 💬 [Let's connect!](https://www.linkedin.com/in/zeelapatel/)
