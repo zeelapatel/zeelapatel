@@ -64,6 +64,6 @@ Highlighting projects that demonstrate complex AI workflows and system design:
 I'm actively looking for opportunities to contribute to open-source agentic AI frameworks or discuss roles in system architecture.
 
 * **🔗 LinkedIn:** [Connect with me here](https://www.linkedin.com/in/zeelapatel/)
-* **📧 Email:** zeel.patel.dev [at] gmail [dot] com (Replace with your actual professional email)
+* **📧 Email:** patel.zeel3@northeastern.edu
 
 <br>
