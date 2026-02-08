@@ -50,15 +50,6 @@ Highlighting projects that demonstrate complex AI workflows and system design:
 
 ---
 
-### 📊 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeelapatel&show_icons=true&theme=vue" alt="Zeel's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zeelapatel&theme=vue" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🤝 Let's Connect & Collaborate
 
 I'm actively looking for opportunities to contribute to open-source agentic AI frameworks or discuss roles in system architecture.
