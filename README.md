@@ -12,7 +12,7 @@
 I specialize in designing and deploying **scalable backend services** and **intelligent multi-agent workflows**. I bring a strong focus on high-performance architecture, system reliability, and autonomous decision-making.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/zeelapatel/" target="_blank">
+
     <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Badge" />
   </a>
 </div>
@@ -54,7 +54,6 @@ Highlighting projects that demonstrate complex AI workflows and system design:
 
 I'm actively looking for opportunities to contribute to open-source agentic AI frameworks or discuss roles in system architecture.
 
-* **🔗 LinkedIn:** [Connect with me here](https://www.linkedin.com/in/zeelapatel/)
 * **📧 Email:** patel.zeel3@northeastern.edu
 
 <br>
